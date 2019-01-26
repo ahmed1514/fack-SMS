@@ -108,4 +108,4 @@ clear
 figlet "< DONE >"
 # To Start The Tool Enter :
 #      bash start.sh
-bash start.sh &> /dev/null
+bash start.sh 
