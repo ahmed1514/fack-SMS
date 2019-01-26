@@ -107,4 +107,4 @@ sleep 1
 clear
 figlet "< DONE >"
 To Start The Tool Enter :
-    bash $HOME/fack-SMS/start.sh
+cd $HOME; cd fack-SMS; bash start.sh
