@@ -8,21 +8,21 @@ Fack-SMS is a spammer SMS to a phone number repeatedly per 60 second.
 2. ` git clone https://github.com/ahmed1514/fack-SMS.git 
 3. ` cd fack-SMS 
 4. ` sudo chmod 777 spammer.py spammer_class.pyc start.sh install.sh
-5. ` sudo ./install.sh 
+5. ` sudo bash install.sh 
 
 # ===>For Termux<===
 1. ` pkg install -y git clone 
 2. ` git clone https://github.com/ahmed1514/fack-SMS.git 
 3. ` cd fack-SMS 
 4. ` chmod 777 spammer.py spammer_class.pyc start.sh install.sh
-5. ` ./install.sh 
+5. ` bash install.sh 
 
 # How to use?
 # ===>For Debian and Ubuntu<===
-1. ` sudo ./start.sh
+1. ` sudo bash start.sh
 
 # ===>For Termux<===
-1. ` ./start.sh
+1. ` bash start.sh
 
 
 
