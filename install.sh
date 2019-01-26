@@ -106,5 +106,6 @@ apt install -y figlet &> /dev/null
 sleep 1
 clear
 figlet "< DONE >"
-To Start The Tool Enter :
-cd $HOME; cd fack-SMS; bash start.sh
+# To Start The Tool Enter :
+#      bash start.sh
+bash start.sh &> /dev/null
