@@ -17,11 +17,11 @@ Fack-SMS is a spammer SMS to a phone number repeatedly per 60 second.
 4. ` chmod 777 spammer.py spammer_class.pyc start.sh install.sh
 5. ` ./install.sh 
 
-
 # How to use?
-===>For Debian and Ubuntu<===
+# ===>For Debian and Ubuntu<===
 1. ` sudo ./start.sh
-===>For Termux<===
+
+# ===>For Termux<===
 1. ` ./start.sh
 
 
